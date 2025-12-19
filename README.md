@@ -8,7 +8,7 @@ This capstone project implements the backend API for an online store called Easy
 * MySQL - Database
 * Maven - Dependency management
 ## Interesting Code
-Fixing Minumum price bug
+Fixing Minumum and Maximum price bug
 <img width="1076" height="567" alt="Screenshot 2025-12-19 030218" src="https://github.com/user-attachments/assets/c0a42890-20e8-4cd2-a5dc-ecab2409cb33" />
 
 <img width="310" height="108" alt="Screenshot 2025-12-19 030308" src="https://github.com/user-attachments/assets/f9316855-3b09-4645-9576-99aa4d096979" />
